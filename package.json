@@ -47,7 +47,7 @@
     "fastify-static": "^3.0.0",
     "fastify-websocket": "^2.0.5",
     "graphql": "^15.0.0",
-    "graphql-jit": "^0.4.0",
+    "graphql-jit": "^0.5.1",
     "http-errors": "^1.7.3",
     "mqemitter": "^4.0.0",
     "p-map": "^4.0.0",
